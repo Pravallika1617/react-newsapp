@@ -1,0 +1,29 @@
+body{
+    background-color: #e5ebd7;
+    overflow-x: hidden;
+}
+
+.newscontent .card{
+    background-color:rgb(229, 235, 215); 
+}
+
+.newscontent .btn{
+    background-color: #6b8e23;
+}
+
+.newscontent .btn:hover{
+    border: none;
+    color: #fff;
+}
+
+.buttons .btn{
+    background-color: olivedrab;
+}
+
+.buttons .btn:hover{
+    color: #fff;
+}
+
+.heading{
+    color: olivedrab;
+}
